@@ -1,0 +1,20 @@
+[
+    "merchant_category",
+    "merchant_type",
+    "amount",
+    "currency",
+    "country",
+    "city",
+    "city_size",
+    "card_type",
+    "card_present",
+    "device",
+    "channel",
+    "distance_from_home",
+    "high_risk_merchant",
+    "transaction_hour",
+    "weekend_transaction",
+    "velocity_last_hour",
+    "transaction_dayofweek",
+    "transaction_month"
+]
